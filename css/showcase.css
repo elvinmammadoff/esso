@@ -168,12 +168,24 @@
   font-size:110px;
   line-height:180px;
   color:#000;
+  overflow: hidden;
   -webkit-touch-callout: none; 
   -webkit-user-select: none; 
   -khtml-user-select: none; 
   -moz-user-select: none; 
   -ms-user-select: none; 
   user-select: none; 
+}
+
+.title-main {
+  transform: translateY(220px);
+  opacity: 0;
+  transition: opacity 2s ease-in, transform 1s ease-in;
+}
+
+.swiper-slide-active .title-main {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .light-content .title {
@@ -273,9 +285,16 @@
 }
 
 .subtitle {
-  transform: none !important;
+  transform: translateY(80px);
   font-family: "NexaExtra", sans-serif;
-  font-size: 28px;
+  font-size: 26px;
+  opacity: 0;
+  transition: opacity 2.5s ease-in, transform 1.5s ease-in;
+}
+
+.swiper-slide-active .subtitle {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .showcase-subtitles-wrap .swiper-pagination-bullet:first-child .subtitle {
