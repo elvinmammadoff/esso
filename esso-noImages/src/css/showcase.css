@@ -289,6 +289,7 @@
   font-family: "NexaExtra", sans-serif;
   font-size: 26px;
   opacity: 0;
+  text-align: center;
   transition: opacity 2.5s ease-in, transform 1.5s ease-in;
 }
 
@@ -889,8 +890,8 @@
   line-height: 100px;
 }
 
-.title span, .stroked .title span, #showcase-carousel-slider .outer .title span {
-  top: 25px;
+.subtitle {
+  font-size: 20px;
 }
 
 #showcase-holder .showcase-captions-wrap {
@@ -958,10 +959,6 @@
 .title, #showcase-carousel-slider .outer .title {
   font-size: 50px;
   line-height: 80px;
-}
-
-.title span, .stroked .title span, #showcase-carousel-slider .outer .title span {
-  top: 20px;
 }
 
 #showcase-holder .showcase-captions-wrap {
