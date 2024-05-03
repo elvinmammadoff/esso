@@ -347,7 +347,7 @@ Function Showcase
 				resistance : true,
 				resistanceRatio : 0,
 				allowTouchMove:true, 
-				speed:600,
+				speed:1600,
 				autoplay: false,
 				effect: "slide",
 				mousewheelControl: false,
