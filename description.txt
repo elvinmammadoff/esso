@@ -3,7 +3,7 @@
 <p><strong>ESSO</strong> Coffee Shop Slider is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With <strong>ESSO</strong> Furniture Slider you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>ESSO</strong> Coffee Shop Slider and take your website to the next level.</p>
 
 
-<img src="https://esso-slider.netlify.app/src/assets/img/rate.png" alt="rate-us">
+<img src="https://esso-slider.netlify.app/src/img/rate.png" alt="rate-us">
 
 <h3 id="item-description__why-choose-esso-furniture-slider">Why choose ESSO Coffee Shop Slider?</h3>
 <ul>
@@ -84,11 +84,11 @@
 <pre>- Initial release</pre>
 <p>If you love our product, Don’t forget to rate it 5 stars</p>
 <p>
-<img src="https://esso-slider.netlify.app/src/assets/img/star.png" alt="star">
-<img src="https://esso-slider.netlify.app/src/assets/img/star.png" alt="star">
-<img src="https://esso-slider.netlify.app/src/assets/img/star.png" alt="star">
-<img src="https://esso-slider.netlify.app/src/assets/img/star.png" alt="star">
-<img src="https://esso-slider.netlify.app/src/assets/img/star.png" alt="star"> 
+<img src="https://esso-slider.netlify.app/src/img/star.png" alt="star">
+<img src="https://esso-slider.netlify.app/src/img/star.png" alt="star">
+<img src="https://esso-slider.netlify.app/src/img/star.png" alt="star">
+<img src="https://esso-slider.netlify.app/src/img/star.png" alt="star">
+<img src="https://esso-slider.netlify.app/src/img/star.png" alt="star"> 
 and let us know your feedback for a better update. Thank you
-<img src="https://esso-slider.netlify.app/src/assets/img/smile.png" alt="happy">
+<img src="https://esso-slider.netlify.app/src/img/smile.png" alt="happy">
 </p></div>
