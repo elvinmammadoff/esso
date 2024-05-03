@@ -792,16 +792,6 @@
 
 
 @media only screen and (max-width: 1466px) {
-  
-.title, #showcase-carousel-slider .outer .title {
-  font-size: 70px;
-  line-height: 120px;
-  height:120px;
-}
-
-.title span, .stroked .title span, #showcase-carousel-slider .outer .title span {
-  top: 30px;
-}
 
 #showcase-holder .showcase-captions-wrap {
   padding: 0 50px;
@@ -897,7 +887,6 @@
 .title, #showcase-carousel-slider .outer .title {
   font-size: 60px;
   line-height: 100px;
-  height:100px;
 }
 
 .title span, .stroked .title span, #showcase-carousel-slider .outer .title span {
@@ -969,7 +958,6 @@
 .title, #showcase-carousel-slider .outer .title {
   font-size: 50px;
   line-height: 80px;
-  height:80px;
 }
 
 .title span, .stroked .title span, #showcase-carousel-slider .outer .title span {
@@ -1042,7 +1030,6 @@
 .title, #showcase-carousel-slider .outer .title {
   font-size: 40px;
   line-height: 80px;
-  height:80px;
 }
 
 #showcase-holder .showcase-captions-wrap {
